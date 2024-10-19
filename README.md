@@ -12,7 +12,7 @@ npm run dev
 ### Deployment
 
 ```sh
-git 
+git gh repo clone krlosreyes/CRUD-NODEJS-REACT
 cd React Task 
 npm i
 npm run build
